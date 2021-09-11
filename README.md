@@ -1,3 +1,3 @@
 # C++ Basics
 
-Examples of basic sintaxys in C++.
+Examples of basic syntaxes in C++.
