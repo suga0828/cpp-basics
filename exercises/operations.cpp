@@ -3,7 +3,7 @@
 
 using namespace std;
 
-const double PI = 3.14159265;
+const float PI = 3.14159265;
 
 int main()
 {
