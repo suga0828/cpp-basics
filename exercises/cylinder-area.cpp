@@ -9,8 +9,6 @@ int main()
 {
   float r, h, A = 0;
 
-  cout << "Alexander Sandoval" << endl;
-
   cout << "Ingrese el radio del cilindro: ";
   cin >> r;
   cout << "Ingrese la altura del cilindro: ";

@@ -6,8 +6,6 @@ int main()
 {
   double distance, time, averageSpeed = 0;
 
-  cout << "Alexander Sandoval " << endl;
-
   cout << "Ingrese la distancia recorrida (en kilómetros): ";
   cin >> distance;
   cout << "Ingrese el tiempo transcurrido (en horas): ";

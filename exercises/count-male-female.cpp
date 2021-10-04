@@ -4,12 +4,11 @@ using namespace std;
 
 int main()
 {
-  int age, female = 0, count = 0, accumulator = 0;
-  float average;
+  int age, female = 0, count = 0;
+  float average, accumulator = 0;
   char sex;
 
-  cout
-      << "Código: 1701727. Alexander Sandoval. Tec. en Electrónica y Comunicaciones" << endl;
+  cout << "Código: 1701727. Alexander Sandoval. Tec. en Electrónica y Comunicaciones" << endl;
 
   do
   {

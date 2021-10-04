@@ -6,8 +6,6 @@ int main()
 {
   float c, f = 0;
 
-  cout << "Alexander Sandoval" << endl;
-
   cout << "Ingrese la temperatura en grados Celsius: ";
   cin >> c;
 

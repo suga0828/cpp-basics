@@ -6,8 +6,6 @@ int main()
 {
   int type = 0;
 
-  cout << "Código: 1707727. Alexander Sandoval. Tec. en Electrónica y Comunicaciones" << endl;
-
   cout << "Ingrese el tipo de vehículo: ";
   cin >> type;
 

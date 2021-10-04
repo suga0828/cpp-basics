@@ -6,8 +6,6 @@ int main()
 {
   int number, sum = 0;
 
-  cout << "Alexander Sandoval " << endl;
-
   cout << "Ingrese un número entre mayor que 10 y menor que 100: ";
   cin >> number;
 

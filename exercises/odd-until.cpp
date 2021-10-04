@@ -4,8 +4,6 @@ using namespace std;
 
 int main()
 {
-  cout << "Código: 1707727. Alexander Sandoval. Tec. en Electrónica y Comunicaciones" << endl;
-
   /****** Comienzo de código ejercicio ******/
   /*  GENERAR NUMERO IMPARES DE 1 A 20,
   Se define la variable usada de contador k ANTES del for y

@@ -7,8 +7,6 @@ int main()
 {
   int n, acc = 0;
 
-  cout << "Código: 1707727. Alexander Sandoval. Tec. en Electrónica y Comunicaciones" << endl;
-
   cout << "Digite el número de elementos a sumar: ";
   cin >> n;
 

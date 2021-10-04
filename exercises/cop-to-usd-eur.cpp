@@ -6,8 +6,6 @@ int main()
 {
   float cop, usd, eur = 0;
 
-  cout << "Alexander Sandoval" << endl;
-
   cout << "Ingrese la cantidad de pesos que quiere escribir en dólares y euros: ";
   cin >> cop;
 

@@ -6,8 +6,6 @@ int main()
 {
   int password, i = 0;
 
-  cout << "Código: 1701727. Alexander Sandoval. Tec. en Electrónica y Comunicaciones" << endl;
-
   do
   {
     cout << "Ingrese la combinación: ";

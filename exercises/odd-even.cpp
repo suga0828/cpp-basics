@@ -7,8 +7,6 @@ int main()
 {
   int number = 0;
 
-  cout << "Código: 1707727. Alexander Sandoval. Tec. en Electrónica y Comunicaciones" << endl;
-
   cout << "Ingrese un número entero: ";
   cin >> number;
 

@@ -7,8 +7,6 @@ int main()
   float number, positives = 0, negatives = 0, zeros = 0;
   int iterations = 10;
 
-  cout << "Código: 1707727. Alexander Sandoval. Tec. en Electrónica y Comunicaciones" << endl;
-
   for (int i = 0; i < iterations; i++)
   {
     cout << "Ingrese un número y presione enter: ";

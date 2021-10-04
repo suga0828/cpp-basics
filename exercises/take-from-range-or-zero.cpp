@@ -6,8 +6,6 @@ int main()
 {
   int num = 1, sum = 0;
 
-  cout << "Código: 1701727. Alexander Sandoval. Tec. en Electrónica y Comunicaciones" << endl;
-
   while (true)
   {
     cout << "Ingrese un número: ";

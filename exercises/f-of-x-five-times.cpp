@@ -6,9 +6,7 @@ int main()
 {
   float x, f;
 
-  cout << "Código: 1701727. Alexander Sandoval. Tec. en Electrónica y Comunicaciones" << endl;
-
-  for (int i = 0; i < 3; i++)
+  for (int i = 0; i < 5; i++)
   {
     cout << "Ingrese el valor de x: ";
     cin >> x;

@@ -7,8 +7,6 @@ int main()
 {
   int age = 0;
 
-  cout << "Código: 1707727. Alexander Sandoval. Tec. en Electrónica y Comunicaciones" << endl;
-
   cout << "Ingrese una edad edad: ";
   cin >> age;
 

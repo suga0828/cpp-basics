@@ -7,8 +7,6 @@ int main()
 {
   float x1, y1, x2, y2, distance = 0;
 
-  cout << "Alexander Sandoval" << endl;
-
   cout << "Ingrese x1: ";
   cin >> x1;
   cout << "Ingrese y1: ";

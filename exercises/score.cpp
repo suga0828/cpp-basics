@@ -6,8 +6,6 @@ int main()
 {
   float score1, score2, score3, Def = 0;
 
-  cout << "Alexander Sandoval " << endl;
-
   cout << "Digite tres notas: ";
   cin >> score1;
   cin >> score2;

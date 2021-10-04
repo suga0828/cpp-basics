@@ -7,8 +7,6 @@ const float PI = 3.14159265;
 
 int main()
 {
-  cout << "Alexander Sandoval" << endl;
-
   cout << "El resultado de 15 dividido 7 es: " << 15.0 / 7.0 << endl;
   cout << "El residuo de 12 dividido 5 es: " << 12 % 5 << endl;
   cout << "El resultado de tres menos la multiplicación de cuatro por seis es: " << 3 - (4 * 6) << endl;

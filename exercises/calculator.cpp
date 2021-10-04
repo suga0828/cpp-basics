@@ -8,8 +8,6 @@ int main()
   float number1, number2 = 0;
   int operation = 0;
 
-  cout << "Código: 1707727. Alexander Sandoval. Tec. en Electrónica y Comunicaciones" << endl;
-
   cout << "Ingrese el primer número: ";
   cin >> number1;
 

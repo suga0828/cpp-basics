@@ -7,8 +7,6 @@ int main()
   float pesos, euro, euros = 0, dolar, dolars = 0;
   int iterations = 5;
 
-  cout << "Código: 1707727. Alexander Sandoval. Tec. en Electrónica y Comunicaciones" << endl;
-
   for (int i = 0; i < iterations; i++)
   {
     cout << "Por favor ingrese la cantidad de pesos que quiere cambiar: ";

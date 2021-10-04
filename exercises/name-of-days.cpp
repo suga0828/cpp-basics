@@ -7,8 +7,6 @@ int main()
 {
   int dayOfWeek = 0;
 
-  cout << "Código: 1707727. Alexander Sandoval. Tec. en Electrónica y Comunicaciones" << endl;
-
   cout << "Ingrese el número del día de la semana: ";
   cin >> dayOfWeek;
 

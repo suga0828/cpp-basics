@@ -6,8 +6,6 @@ int main()
 {
   float hours, payPerHours, tax, income, netIncome = 0;
 
-  cout << "Alexander Sandoval" << endl;
-
   cout << "Ingrese el total de horas trabajadas por el empleado: ";
   cin >> hours;
   cout << "Ingrese el valor de las horas trabajadas: ";
