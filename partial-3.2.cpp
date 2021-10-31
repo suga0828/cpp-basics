@@ -5,8 +5,6 @@ int main()            // Función principal con tipo de retorno int
 {                     // Inicio de bloque de código de función principal
   int acumulador = 1; // Definir variable entera
 
-  cout << "Código: 1701727. Alexander Sandoval. Tec. en Electrónica y Comunicaciones" << endl;
-
   for (int i = 1; i <= 11; i++)      // Ciclo for comenzando en 1 y terminando en 11, aumentando en una unidad por cada iteración
   {                                  // Inicio del ciclo for
     cout << "Número: " << i << endl; // Mostrar número en consola

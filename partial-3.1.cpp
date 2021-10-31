@@ -6,8 +6,6 @@ int main()   // Función principal con tipo de retorno int
 {            // Inicio de bloque de código de función principal
   int NUM87; // Definir variable entera
 
-  cout << "Código: 1701727. Alexander Sandoval. Tec. en Electrónica y Comunicaciones" << endl;
-
   cout << "Ingrese el número 87: "; // Mostrar mensaje en consola
   cin >> NUM87;                     // Asignar variable NUM87 con el valor ingresado por consola
 

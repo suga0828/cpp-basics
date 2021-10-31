@@ -6,8 +6,6 @@ int main()       // Función principal con tipo de retorno int
 {                // Inicio de bloque de código de función principal
   int color = 0; // Definir variable para guardar valor entero de color
 
-  cout << "Código: 1701727. Alexander Sandoval. Tec. en Electrónica y Comunicaciones" << endl;
-
   cout << "Ingrese el número del color: ";
   cin >> color; // Asignar a variable color valor ingresado por consola
 
