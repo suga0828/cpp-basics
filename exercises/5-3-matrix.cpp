@@ -7,7 +7,7 @@ int main()
   int students = 5, subjects = 3;
   float record;
 
-  int records[students][subjects];
+  float records[students][subjects];
 
   for (int i = 0; i < students; i++)
   {
@@ -17,7 +17,7 @@ int main()
       cout << "     Ingrese la nota No." << j + 1 << ": ";
       cin >> record;
 
-      if (record >= 0 && record <= 5.0)
+      if (record >= 0.0 && record <= 5.0)
       {
         records[i][j] = record;
       }
