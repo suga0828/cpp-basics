@@ -6,8 +6,6 @@ int main()              // Función principal con tipo de retorno int
 {                       // Inicio de bloque de código de función principal
   int numero, suma = 0; // Definición de variables para numero ingresado y suma
 
-  cout << "Código: 1701727. Alexander Sandoval. TEC-A" << endl;
-
   while (numero != 728) // Ciclo while que se ejecuta mientras valor de variable `numero` es diferente de 728
   {                     // Inicio ciclo while
     cout << "Ingrese un número: ";
